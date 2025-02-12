@@ -1,13 +1,13 @@
 {
-  "name": "paygent-website",
-  "version": "1.0.0",
+  "name": "my-v0-project",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    },
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
     "@radix-ui/react-accordion": "^1.2.2",
@@ -68,4 +68,4 @@
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
-  }
+}
